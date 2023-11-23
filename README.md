@@ -42,7 +42,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - BootStrap
 
 2. Back-End Development:
-- Java [JDK 8+]
+- Java 
 - JDBC
 - Servlet
 
